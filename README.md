@@ -1,6 +1,6 @@
 # ArmitaRameznkhani
 # 💫 About Me:
-👋Hi, I'm Armita<br>I'm a student of Applied Chemistry👩‍🔬and I also play the piano🎹<br>I'm interested in programming💻 <br> I'm currently learning Django<br>I'm working on becoming a better programmer and growing in <br>this field👾
+👋Hi, I'm Armita<br>I'm a student of Applied Chemistry👩‍🔬<br>I'm interested in programming💻 <br> I'm currently learning Django<br>I'm working on becoming a better programmer and growing in <br>this field👾
 
 
 ## 🌐 Socials:
